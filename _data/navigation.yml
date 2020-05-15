@@ -1,0 +1,15 @@
+main:
+  - title: "Fastighet"
+    url: /fastighet/
+  - title: "Ekonomi"
+    url: /ekonomi/
+  - title: "Boende"
+    url: /boende/
+  - title: "Mäklare"
+    url: /mäklare/
+  - title: "Underhåll"
+    url: /underhåll/
+  - title: "Styrelse"
+    url: /styrelse/
+  - title: "Stadgar"
+    url: /
