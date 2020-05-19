@@ -15,6 +15,6 @@ De första 57 åren var fastigheten en hyresfastighet och 2005 bildades den äkt
 
 Vi är en mindre förening med god sammanhållning. Styrelsen anordnar varje vår och höst, dagar där vi tillsammans förbättrar fastigheten, utemiljön och grillar eller fikar efter. På vårdagen brukar vi beställa en container för att kunna slänga större bråte och det är ett utmärkt tillfälle att gallra i förråden.
 
-<a href="/assets/Stadgar Brf Herrestadsgatan 3 20190818.pdf" target="_blank">**Stadgar**</a>
+<a href="/assets/Stadgar Brf Herrestadsgatan 3 20190818.pdf" target="_blank" rel="noopener noreferrer">**Stadgar**</a>
 
 Vår trädgårdsgrupp träffas ett par gånger per år och arbetar med att förbättra utemiljön i föreningen. Kontakta styrelsen om du är intresserad av att vara med.
