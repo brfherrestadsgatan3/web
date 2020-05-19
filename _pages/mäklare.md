@@ -6,7 +6,7 @@ header:
 ---
 
 **Medlemsansökan**  
-Hanteras av <a href="https://bredablickgruppen.se/forvaltning/for-maklare/" target="_blank">Bredablick Förvaltning</a>.
+Hanteras av <a href="https://bredablickgruppen.se/forvaltning/for-maklare/" target="_blank" rel="noopener noreferrer">Bredablick Förvaltning</a>.
 Godkänner inte juridisk person som medlem.  
 Accepterar delat ägande mellan föräldrar och barn.  
 
