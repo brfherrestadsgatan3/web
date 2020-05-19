@@ -7,10 +7,10 @@ header:
 
 **Information**  
 Utöver anslagstavlorna i trapphusen finns det en 
-<a href="https://www.facebook.com/groups/1811086178908466/" target="_blank">Facebookgrupp</a>.
+<a href="https://www.facebook.com/groups/1811086178908466/" target="_blank" rel="noopener noreferrer">Facebookgrupp</a>.
 
 **Felanmälan**  
-Görs till SBC via deras <a href="http://www.sbc.se/kontakt/felanmalan/" target="_blank">hemsida</a> eller telefon. 
+Görs till SBC via deras <a href="http://www.sbc.se/kontakt/felanmalan/" target="_blank" rel="noopener noreferrer">hemsida</a> eller telefon. 
 Kontaktuppgifter finns på anslagstavlorna i trapphusen.
 
 **Parkering**  
@@ -42,15 +42,15 @@ Kärl finns på framsidan för papper, plast, tidningar och matavfall.
 Glas och metall kan slängas på återvinningscentralen vid Kronprinsen. 
 Tänk på att platta till/fördela större förpackningar så att de får plats. 
 Större kartonger/lådor och övrigt skrymmande avfall kan slängas på 
-<a href="https://www.sysav.se" target="_blank">Sysavs</a> återvinningscentraler i 
-<a href="https://www.sysav.se/Privat/Atervinningscentraler/Bunkeflo/" target="_blank">Bunkeflo</a> 
-eller <a href="https://www.sysav.se/Privat/Atervinningscentraler/malmo-norra-hamnen/" target="_blank">
+<a href="https://www.sysav.se" target="_blank" rel="noopener noreferrer">Sysavs</a> återvinningscentraler i 
+<a href="https://www.sysav.se/Privat/Atervinningscentraler/Bunkeflo/" target="_blank" rel="noopener noreferrer">Bunkeflo</a> 
+eller <a href="https://www.sysav.se/Privat/Atervinningscentraler/malmo-norra-hamnen/" target="_blank" rel="noopener noreferrer">
 Norra Hamnen</a>. Alternativt kan det slängas i samband med vårdagen där vi brukar beställa en container för avfall.
 
 **Andrahandsuthyrning**  
 Ska godkännas av styrelsen och en avgift på 10% av prisbasbeloppet per år tas ut. 
 Skriv ut och fyll i blankett från Bredablicks 
-<a href="https://bredablickforvaltning.se/wp-content/uploads/2018/02/Ansökan-om-uthyrning-i-andra-hand.pdf" target="_blank">hemsida</a>
+<a href="https://bredablickforvaltning.se/wp-content/uploads/2018/02/Ansökan-om-uthyrning-i-andra-hand.pdf" target="_blank" rel="noopener noreferrer">hemsida</a>
  och lämna in till styrelsen.
 
 **Snö- och halkbekämpning**  
@@ -58,5 +58,5 @@ Medlemmarna ansvarar gemensamt för snö- och halkbekämpningen.
 Ett schema för detta skickas ut i november/december där varje lägenhet ansvarar för en vecka. 
 Saltspridare och snöskyfflar finns i verktygsrummet i källaren.
 
-<a href="https://docs.google.com/document/d/18Sc8X8qqU4yCLwH8O1g2cb1DlrkIezoA-Falv5ODL2E" target="_blank">**Frågor & svar gällande ansvar**</a>
+<a href="https://docs.google.com/document/d/18Sc8X8qqU4yCLwH8O1g2cb1DlrkIezoA-Falv5ODL2E" target="_blank" rel="noopener noreferrer">**Frågor & svar gällande ansvar**</a>
 
