@@ -56,7 +56,8 @@ Skriv ut och fyll i blankett från Bredablicks
 **Snö- och halkbekämpning**  
 Medlemmarna ansvarar gemensamt för snö- och halkbekämpningen. 
 Ett schema för detta skickas ut i november/december där varje lägenhet ansvarar för en vecka. 
-Saltspridare och snöskyfflar finns i verktygsrummet i källaren.
+Saltspridare och snöskyfflar finns i verktygsrummet i källaren.  
 
-<a href="https://docs.google.com/document/d/18Sc8X8qqU4yCLwH8O1g2cb1DlrkIezoA-Falv5ODL2E" target="_blank" rel="noopener noreferrer">**Frågor & svar gällande ansvar**</a>
+<a href="https://docs.google.com/document/d/18Sc8X8qqU4yCLwH8O1g2cb1DlrkIezoA-Falv5ODL2E" target="_blank" rel="noopener noreferrer">**Frågor & svar gällande ansvar**</a>  
 
+<a href="https://drive.google.com/file/d/0B55WgVkHjB5Fai1zT3NXX1d2RVU/view?usp=sharing" target="_blank" rel="noopener noreferrer">**Ordningsregler**</a>  
