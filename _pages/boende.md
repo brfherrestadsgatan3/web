@@ -61,3 +61,5 @@ Saltspridare och snöskyfflar finns i verktygsrummet i källaren.
 <a href="https://docs.google.com/document/d/18Sc8X8qqU4yCLwH8O1g2cb1DlrkIezoA-Falv5ODL2E" target="_blank" rel="noopener noreferrer">**Frågor & svar gällande ansvar**</a>  
 
 <a href="https://docs.google.com/document/d/1buHzmdgxQ_3bnpN34LelpjDH3unnWHm6rXMhOeXMmT4/edit?usp=sharing" target="_blank" rel="noopener noreferrer">**Ordningsregler**</a>  
+
+<a href="https://drive.google.com/file/d/1HIWqCAuR_XG24846D86UakLMh1OyjgxI/view?usp=sharing" target="_blank" rel="noopener noreferrer">**Begäran om tillstånd för ändring i lägenheten**</a>
