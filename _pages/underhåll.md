@@ -14,6 +14,7 @@ Föreningen avsätter medel till planerat underhåll enligt en 30-årig underhå
 **2018** Förbättring utemiljö/trädgård bl. a. planterat häck på framsidan  
 **2018** Snabbare fiber 250/250 Mbit/s  
 **2017** Spolning spillvattenledningar  
+**2017** Nya utemöbler  
 **2016** Ny tvättmaskin, torktumlare och torkskåp  
 **2015** Takomläggning och omfogning skorstenar  
 **2015** Ny varmvattencirkulationspump till fjärrvärmecentralen  
