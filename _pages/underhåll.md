@@ -11,8 +11,8 @@ Föreningen avsätter medel till planerat underhåll enligt en 30-årig underhå
 **2020** Blomsterrabatt på framsidan  
 **2020** Staket med grind på bakgården  
 **2019** Energideklaration  
-**2018** Förbättring utemiljö/trädgård bl. a. planterat häck på framsidan 
-**2018** Snabbare fiber 250/250 Mbit/s
+**2018** Förbättring utemiljö/trädgård bl. a. planterat häck på framsidan  
+**2018** Snabbare fiber 250/250 Mbit/s  
 **2017** Spolning spillvattenledningar  
 **2016** Ny tvättmaskin, torktumlare och torkskåp  
 **2015** Takomläggning och omfogning skorstenar  
