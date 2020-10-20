@@ -30,5 +30,3 @@ Föreningen följer K2-regelverket för årsredovisning.
 Föreningen har i dagsläget inga planerade avgiftshöjningar.
 
 En lägenhet upplåts med hyresrätt och kommer att säljas när hyresgästen flyttar vilket ger möjlighet att amortera på föreningens lån.
-
-I lokalen på källarplan finns <a href="http://www.fontastic.se" target="_blank" rel="noopener noreferrer">Fontastic Massage</a> som erbjuder thailändsk massage.
