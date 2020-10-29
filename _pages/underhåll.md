@@ -3,6 +3,7 @@ title: Underhåll
 permalink: /underhåll/
 header:
   overlay_image: /assets/images/underhall.jpg
+
 ---
 
 Föreningen avsätter medel till planerat underhåll enligt en 30-årig underhållsplan framtagen av Bredablick.
