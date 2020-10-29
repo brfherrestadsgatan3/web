@@ -12,19 +12,19 @@ Vi arbetar med en långsiktigt femårig budget som uppdateras årligen med Breda
 Föreningen följer K2-regelverket för årsredovisning.
 
 **Årsredovisning** 
-<a href="/assets/Årsredovisning 2019.pdf" target="_blank" rel="noopener noreferrer">2019</a> 
-<a href="/assets/Årsredovisning 2018.pdf" target="_blank" rel="noopener noreferrer">2018</a> 
-<a href="/assets/Årsredovisning 2017.pdf" target="_blank" rel="noopener noreferrer">2017</a>
-<a href="/assets/Årsredovisning 2016.pdf" target="_blank" rel="noopener noreferrer">2016</a> 
-<a href="/assets/Årsredovisning 2015.pdf" target="_blank" rel="noopener noreferrer">2015</a> 
-<a href="/assets/Årsredovisning 2014.pdf" target="_blank" rel="noopener noreferrer">2014</a> 
-<a href="/assets/Årsredovisning 2013.pdf" target="_blank" rel="noopener noreferrer">2013</a> 
-<a href="/assets/Årsredovisning 2012.pdf" target="_blank" rel="noopener noreferrer">2012</a> 
-<a href="/assets/Årsredovisning 2011.pdf" target="_blank" rel="noopener noreferrer">2011</a> 
-<a href="/assets/Årsredovisning 2010.pdf" target="_blank" rel="noopener noreferrer">2010</a> 
-<a href="/assets/Årsredovisning 2009.pdf" target="_blank" rel="noopener noreferrer">2009</a> 
+[2019](/assets/Årsredovisning%202019.pdf)
+[2018](/assets/Årsredovisning%202018.pdf)
+[2017](/assets/Årsredovisning%202017.pdf)
+[2016](/assets/Årsredovisning%202016.pdf)
+[2015](/assets/Årsredovisning%202015.pdf)
+[2014](/assets/Årsredovisning%202014.pdf)
+[2013](/assets/Årsredovisning%202013.pdf)
+[2012](/assets/Årsredovisning%202012.pdf)
+[2011](/assets/Årsredovisning%202011.pdf)
+[2010](/assets/Årsredovisning%202010.pdf)
+[2009](/assets/Årsredovisning%202009.pdf)
   
-**Ekonomisk förvaltning** <a href="https://bredablickgruppen.se/forvaltning/" target="_blank" rel="noopener noreferrer">Bredablick Förvaltning</a>  
+**Ekonomisk förvaltning** [Bredablick Förvaltning](https://bredablickgruppen.se/forvaltning/)  
 **Organisationsnummer** 769612-0828  
 
 Föreningen har i dagsläget inga planerade avgiftshöjningar.
