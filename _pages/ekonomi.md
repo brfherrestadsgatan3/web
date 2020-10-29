@@ -3,6 +3,7 @@ title: Ekonomi
 permalink: /ekonomi/
 header:
   overlay_image: /assets/images/ekonomi.jpg
+
 ---
 
 Föreningen har som mål att inte behöva höja avgifterna de närmsta åren utan istället arbeta aktivt för att sänka finans- och driftskostnaderna. 
