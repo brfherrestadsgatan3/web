@@ -3,10 +3,11 @@ title: Mäklare
 permalink: /mäklare/
 header:
   overlay_image: /assets/images/maklare.jpg
+  
 ---
 
 **Medlemsansökan**  
-Hanteras av <a href="https://bredablickgruppen.se/forvaltning/for-maklare/" target="_blank" rel="noopener noreferrer">Bredablick Förvaltning</a>.
+Hanteras av [Bredablick Förvaltning](https://bredablickgruppen.se/forvaltning/for-maklare/).
 Godkänner inte juridisk person som medlem.  
 Accepterar delat ägande mellan föräldrar och barn.  
 
