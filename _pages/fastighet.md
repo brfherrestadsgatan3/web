@@ -3,6 +3,7 @@ title: Fastighet
 permalink: /fastighet/
 header:
   overlay_image: /assets/images/fastighet.jpg
+
 ---
 
 Fastigheten uppfördes 1949 efter ritningar av arkitekten [Axel Carlsson](https://sv.wikipedia.org/wiki/Axel_Carlsson_(arkitekt)). Fasaden består av röd ädelputs med marmor som gnistrar när solen lyser på fasaden.
