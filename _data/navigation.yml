@@ -1,4 +1,6 @@
 main:
+  - title: "Hem"
+    url: /
   - title: "Fastighet"
     url: /fastighet/
   - title: "Ekonomi"
@@ -9,6 +11,3 @@ main:
     url: /mäklare/
   - title: "Underhåll"
     url: /underhåll/
-  - title: "Styrelse"
-    url: /styrelse/
-    
