@@ -24,7 +24,7 @@ Fastigheten uppfördes 1949 efter ritningar av arkitekten [Axel Carlsson](https:
 **Värmeledningar** Original  
 
 **Spillvatten** Original, spolade 2017, filmade 2012  
-**Tappvatten** Varm bytt, kall original  
+**Tappvatten** 2020  
 **Elsystem** 2014  
 
 **Energideklaration**  [2019](/assets/Energideklaration%202019.pdf)  
