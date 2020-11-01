@@ -17,7 +17,7 @@ Det finns totalt 4 lägenheter om 1 rum och kök, 4 lägenheter om 2 rum och kö
 
 Styrelsen består av:  
 Jennifer Jensen (Ordförande)  
-Frida Einarsson (Ledamot)  
+Frida Einarsson (Sekreterare)  
 Cristoffer Fivén (Ledamot)  
 Andreas Hagersten (Suppleant)
 
