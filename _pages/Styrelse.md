@@ -15,5 +15,5 @@ Akuta ärenden - Kom och knacka på hos någon av oss.
 Styrelsen består av:  
 **Jennifer Jensen** Ordförande  
 **Frida Einarsson** Ledamot  
-**Cristoffer Fivén** Ledamot
-**Andreas Hagersten** Suppleant
+**Cristoffer Fivén** Ledamot  
+**Andreas Hagersten** Suppleant  
