@@ -11,3 +11,5 @@ main:
     url: /mäklare/
   - title: "Underhåll"
     url: /underhåll/
+  - title: "Styrelse"
+    url: /styrelse/
