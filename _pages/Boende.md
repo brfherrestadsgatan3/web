@@ -20,7 +20,7 @@ Kontakta styrelsen om du vill ställa dig i kö, ingen i kö nu.
 
 **Internet och kabel-TV**  
 Gruppanslutning från Telenor. Bredband 250/250 Mbit/s för 149 kr/mån. 
-Trådlös router ingår, ring 020-222 222 för att beställa. 
+Trådlös router ingår, ring [020-222 222](tel:020222222) för att beställa. 
 Kabel-TV Bas med 16 kanaler för 70 kr/mån. Dessa 219 kr/mån är ett obligatoriskt tillägg på avgiften. 
 
 **Tvätt**  
