@@ -13,6 +13,7 @@ Vi arbetar med en långsiktigt femårig budget som uppdateras årligen med Breda
 Föreningen följer K2-regelverket för årsredovisning.
 
 **Årsredovisning** 
+[2020](/assets/Årsredovisning%202020.pdf)
 [2019](/assets/Årsredovisning%202019.pdf)
 [2018](/assets/Årsredovisning%202018.pdf)
 [2017](/assets/Årsredovisning%202017.pdf)
