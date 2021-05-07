@@ -10,7 +10,7 @@ Föreningen avsätter medel till planerat underhåll enligt en 30-årig underhå
 
 **Genomfört**  
 **2020** Byte av tappvattenstammar
-**2020** OVK
+**2020** OVK  
 **2020** Blomsterrabatt på framsidan  
 **2020** Staket med grind på bakgården  
 **2019** Energideklaration  
