@@ -31,4 +31,5 @@ Föreningen avsätter medel till planerat underhåll enligt en 30-årig underhå
 **2021** Utemiljöprojekt på framsidan
 **2021** Renovering av uppvärmningen
 **2022** Tvättmaskinsbyte
-**2025** Relining spillvattenledningar  
+**2025** Relining spillvattenledningar
+**2025** Asfaltläggning p-platser
