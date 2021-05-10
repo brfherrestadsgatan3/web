@@ -13,7 +13,7 @@ Behöver du kontakta styrelsen sker det lättast genom mejl.
 Akuta ärenden - Kom och knacka på hos någon av oss.  
 
 Styrelsen består av:  
+**Cristoffer Fivén** Ordförande  
+**Frida Einarsson** Sekreterare  
 **Noah Hammarling** Ledamot  
-**Frida Einarsson** Ledamot  
-**Cristoffer Fivén** Ledamot  
 **Maria Anagrius** Suppleant  
