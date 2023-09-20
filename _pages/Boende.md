@@ -15,8 +15,8 @@ Görs till SBC via deras [hemsida](http://www.sbc.se/kontakt/felanmalan/) eller 
 Kontaktuppgifter finns på anslagstavlorna i trapphusen.
 
 **Parkering**  
-Kostar 500 kr/mån och det finns tio platser som i första hand hyrs ut till medlemmar. 
-Kontakta styrelsen om du vill ställa dig i kö, ingen i kö nu.
+Kostar 650 kr/mån och det finns tio platser som i första hand hyrs ut till medlemmar. 
+Kontakta styrelsen om du vill ställa dig i kö, 2 i kö nu.
 
 **Internet och kabel-TV**  
 Gruppanslutning från Telenor. Bredband 250/250 Mbit/s för 149 kr/mån. 
@@ -40,7 +40,7 @@ Ska godkännas av styrelsen enligt vad som står i stadgarna. Kontakta styrelsen
 
 **Återvinning**  
 Kärl finns på framsidan för papper, plast, tidningar och matavfall. 
-Glas och metall kan slängas på återvinningscentralen vid Kronprinsen. 
+Glas och metall kan slängas på återvinningsstationen vid Kronprinsen. 
 Tänk på att platta till/fördela större förpackningar så att de får plats. 
 Större kartonger/lådor och övrigt skrymmande avfall kan slängas på 
 Sysavs återvinningscentraler i 
