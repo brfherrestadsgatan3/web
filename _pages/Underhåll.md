@@ -9,6 +9,8 @@ header:
 Föreningen avsätter medel till planerat underhåll enligt en 30-årig underhållsplan framtagen av Bredablick.
 
 **Genomfört**  
+**2021** Utemiljöprojekt på framsidan  
+**2021** Renovering av uppvärmningen  
 **2020** Byte tappvattensystem   
 **2020** OVK  
 **2020** Blomsterrabatt på framsidan  
@@ -26,8 +28,6 @@ Föreningen avsätter medel till planerat underhåll enligt en 30-årig underhå
 **2012** Renovering balkonger, värmeväxlare och skyddsrum  
 **2009** Renovering tvättstuga  
 **2007** Säkerhetsdörrar och treglasfönster  
-**2021** Utemiljöprojekt på framsidan  
-**2021** Renovering av uppvärmningen  
 
 **Planerat**  
 **2023** Tvättmaskinsbyte  
